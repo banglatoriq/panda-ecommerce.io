@@ -22,6 +22,14 @@ color: white;
 .carousel{
     border-radius: 8px;
 }
+/* .carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #F22784;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 0;
+    
+} */
+
 .navbar{
     border-radius: 8px;
 }
@@ -44,6 +52,18 @@ color: white;
 .catagories h1{
     color: white;
 }
-..catagories img{
+.catagories img{
     width: 100px;
+}
+.span-price{
+    font-size: 16px;
+    color: #E72BBE;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
 }
