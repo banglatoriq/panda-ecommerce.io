@@ -25,4 +25,25 @@ color: white;
 .navbar{
     border-radius: 8px;
 }
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat1{
+
+    background: linear-gradient(to right, rgba(255,175,75,1) 0%, rgb(247, 182, 3) 100%);
+}
+.cat2{
+    background: rgba(203,96,179,1);
+    background: linear-gradient(to right, rgba(203,96,179,1) 0%, rgb(253, 1, 198) 100%);
+}
+.cat3{
+    background: rgba(73,155,234,1);
+    background: linear-gradient(to right, rgba(73,155,234,1) 0%, rgb(0, 126, 245) 100%);
+}
+.catagories h1{
+    color: white;
+}
+..catagories img{
+    width: 100px;
 }
