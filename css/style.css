@@ -1,7 +1,7 @@
 .container{
     margin-bottom: 20px;
 }
-.carousel-bg{
+.orange-bg{
     background-color: #FEEAE9;
 }
 .carousel-item{
@@ -66,4 +66,25 @@ color: white;
 .card-footer{
     background-color: white;
     border-top: none;
+}
+.submit{
+    
+background: linear-gradient(to right, rgba(255,93,177,1) 0%, rgba(239,1,124,1) 100%);
+border: none;
+border-radius: 8px;
+padding: 9px 25px;
+cursor: pointer;
+color: white;
+    
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+
+    text-align: center;
+    color: gray;
 }
